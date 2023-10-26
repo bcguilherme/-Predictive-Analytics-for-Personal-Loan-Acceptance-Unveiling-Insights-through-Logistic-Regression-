@@ -17,9 +17,7 @@ The Loan Approval Predictor is a machine learning project that predicts whether 
 
 ### Installation
 
-1. Clone the repository:
 
-   ```bash
   
 Install dependencies:
 
